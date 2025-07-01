@@ -1,0 +1,3 @@
+[submodule "turbin3-prereqs"]
+	path = turbin3-prereqs
+	url = git@github.com:arunprajapati-arch/turbin3-prereqs.git
