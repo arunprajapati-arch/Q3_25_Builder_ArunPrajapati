@@ -13,3 +13,6 @@
 [submodule "anchor-amm"]
 	path = anchor-amm
 	url = git@github.com:arunprajapati-arch/anchor-amm.git
+[submodule "nft-staking"]
+	path = nft-staking
+	url = git@github.com:arunprajapati-arch/nft-staking.git
