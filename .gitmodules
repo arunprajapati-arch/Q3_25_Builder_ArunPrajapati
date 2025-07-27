@@ -16,3 +16,6 @@
 [submodule "nft-staking"]
 	path = nft-staking
 	url = git@github.com:arunprajapati-arch/nft-staking.git
+[submodule "nft-marketplace"]
+	path = nft-marketplace
+	url = git@github.com:arunprajapati-arch/nft-marketplace.git
