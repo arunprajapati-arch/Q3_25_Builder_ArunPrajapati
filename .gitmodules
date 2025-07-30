@@ -22,3 +22,6 @@
 [submodule "anchor-dice"]
 	path = anchor-dice
 	url = git@github.com:arunprajapati-arch/anchor-dice.git
+[submodule "capstone-program"]
+	path = capstone-program
+	url = git@github.com:arunprajapati-arch/capstone-program.git
